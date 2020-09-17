@@ -1,0 +1,38 @@
+p{
+	color: rgb(13, 121, 9);
+}
+#text{
+	color: mediumvioletred;
+}
+h1,
+h2{
+	color: rgb(19, 19, 22);
+}
+.text *{
+	color: yellow;
+}
+span{
+	color: rgb(181, 240, 72);
+}
+.span__next{
+	color: red;
+}
+a,
+.main .text a{
+	color: rgb(92, 6, 6);
+}
+.footer__ul + .footer__text{
+	color: rgb(252, 8, 211);
+}
+.footer ul{
+	color: rgb(163, 240, 9);
+}
+.nav__ul{
+	color: rgb(107, 240, 240);
+}
+main div > p{
+	color: rgb(116, 116, 194);
+}
+.main__foto{
+	width: 20%;
+}
